@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Josué Moreira
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 Focado em **Desenvolvimento Backend** e **Segurança da Informação**
+💻 Focado em **Desenvolvimento Backend/FullStack** e **Automação**
 🚀 Em busca de **estágio ou oportunidade júnior**
 
 ---
@@ -37,6 +37,13 @@ Gosto de aprender na prática, criar projetos próprios e evoluir continuamente 
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFDD00?style=flat)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat)
 
+### Automação
+
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=power-automate&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -64,11 +71,12 @@ Gosto de aprender na prática, criar projetos próprios e evoluir continuamente 
 
 ## 📈 Em aprendizado
 
-* Segurança da Informação
 * SQL avançado
 * SQLAlchemy
 * Testes automatizados
 * FastAPI
+* Django
+* n8n
 
 ---
 
